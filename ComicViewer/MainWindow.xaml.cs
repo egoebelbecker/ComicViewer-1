@@ -63,6 +63,8 @@ namespace ComicViewer
             catch (InvalidOperationException ioe)
             {
                 Console.WriteLine("Error opening file " + ioe.Message);
+                MessageBox.Show("Error opening file. Please try another.");
+
             }
         }
 
