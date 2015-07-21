@@ -1,5 +1,4 @@
-# ComicViewer-1
-ComicViewer Tutorial Part One
+#ComicViewer Tutorial Part One
 
 This is part of a C# tutorial that walks you through putting together a simple C# app for viewing and saving files from a comic book archive file.
 
